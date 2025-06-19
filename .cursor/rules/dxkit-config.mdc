@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# dxkit-config
+
+Configuration should support environment variables, programmatic overrides, and (optionally) file-based config. Schema validation (e.g., with valibot or zod) is required for all config. All modules should be extensible via plugins or custom hooks where practical.

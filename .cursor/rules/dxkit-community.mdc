@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# dxkit-community
+
+The project is open to contributions, plugins, and community feedback. All contributors should follow the modularity, documentation, and testing rules above. PRs should reference relevant docs and update them as needed.

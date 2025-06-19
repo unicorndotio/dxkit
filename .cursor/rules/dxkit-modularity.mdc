@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# dxkit-modularity
+
+Modules should be designed to be as independent and tree-shakeable as possible. Shared types and utilities must be centralized, and public APIs should be exposed via a single entry point (`mod.ts`). Avoid tight coupling between modules.

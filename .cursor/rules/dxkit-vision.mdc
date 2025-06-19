@@ -1,0 +1,11 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# dxkit-vision
+
+All code, documentation, and tooling in the `@dxkit` suite should align with the
+core vision: empowering developers with elegant, modular tools for Deno,
+focusing on simplicity, clarity, and extensibility. Every contribution should
+make project bootstrapping and environment setup more effortless and joyful.

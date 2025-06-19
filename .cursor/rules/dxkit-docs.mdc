@@ -1,0 +1,12 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# dxkit-docs
+
+All new features, modules, and significant changes must be accompanied by clear documentation. Use the following structure for docs:
+- `VISION.md` or `ABOUT.md`: High-level context, purpose, and results.
+- `PRINCIPLES.md` or `PHILOSOPHY.md`: Project philosophy, key principles, and adoption/community vision.
+- `ROADMAP.md`: Refactor plans, modularization, and future work.
+Documentation should be concise, use markdown, and be placed in the `docs/` folder.

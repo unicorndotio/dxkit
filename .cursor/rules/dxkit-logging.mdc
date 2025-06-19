@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# dxkit-logging
+
+Logging must support multiple levels (debug, info, warn, error), custom formatters, and pluggable sinks (console, file, remote). All diagnostic and health check modules should be extensible and provide clear, actionable output.

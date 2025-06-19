@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# dxkit-testing
+
+All modules must include unit and (where relevant) integration tests using Deno's built-in test runner. Public APIs must be well-typed and documented with JSDoc. Linting and type checks are required before merging.
