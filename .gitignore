@@ -1,0 +1,33 @@
+# Deno cache and lock files
+.deno/
+deno_dir/
+.cache/
+deno.lock
+
+# Deno test coverage output
+coverage/
+cov_profile/
+
+# Deno deploy/build artifacts
+dist/
+build/
+
+# Node compatibility (if using npm specifier)
+node_modules/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Env files
+.env
+.env.* 
