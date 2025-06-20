@@ -1,5 +1,5 @@
 {
-  "name": "@dxkit/denv",
-  "version": "0.1.0",
-  "exports": "./mod.ts"
-} 
+	"name": "@dxkit/denv",
+	"version": "0.1.0",
+	"exports": "./mod.ts"
+}

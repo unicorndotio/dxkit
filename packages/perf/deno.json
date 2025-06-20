@@ -1,5 +1,5 @@
 {
-  "name": "@dxkit/perf",
-  "version": "0.1.0",
-  "exports": "./mod.ts"
-} 
+	"name": "@dxkit/perf",
+	"version": "0.1.0",
+	"exports": "./mod.ts"
+}
